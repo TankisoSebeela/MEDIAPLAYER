@@ -1,0 +1,19 @@
+.nothing{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.player_win{
+	-fx-background-color: rgba(0,0,255,0.3);
+
+}
+.back{
+-fx-background-color: linear-gradient(to right, #fc5c7d, #6a82fb);
+
+}
+.top{
+
+     -fx-background-color: rgba(0,0,255,0.3);
+}
+.button{
+-fx-background-color: linear-gradient(to right, #fc4c7d, #5a82fb);
+
+}
